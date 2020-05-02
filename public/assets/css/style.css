@@ -1,7 +1,42 @@
-li {
+h1, h2, h3 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+h1{
+  text-align: center;
+  padding-top: 30px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.spacing {
+  padding: 1px;
+}
+
+.padding {
+  padding: 10px;
+}
+
+img {
+  align-content: center;
+}
+
+.list-group {
+  padding-bottom: 20px;
+}
+/* li {
   padding: 5px;
   margin: 5px;
-  background: #faebd7;
+} */
+
+.border {
+  margin: 10px;
+  background-color: white;
 }
 
 .label {
